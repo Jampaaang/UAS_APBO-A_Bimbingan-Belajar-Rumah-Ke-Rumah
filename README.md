@@ -45,8 +45,7 @@ Bimbingan belajar rumah ke rumah adalah layanan pendidikan yang memberikan bantu
 - Pendaftaran Pembelajaran
 - Pembayaran dan Riwayat Pembayaran
 - Jadwal Pembelajaran
-- Materi pembelajaran dan tugas yang diberikan oleh tutor
-- Pengumpulan Tugas
+- Materi pembelajaran dan Pengumpulan Tugas
 - Perpanjangan Paket Pembelajaran
 - Fitur Chat dan Support Online
 
