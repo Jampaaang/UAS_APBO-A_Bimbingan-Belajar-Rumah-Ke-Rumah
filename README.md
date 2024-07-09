@@ -54,7 +54,7 @@ Bimbingan belajar rumah ke rumah adalah layanan pendidikan yang memberikan bantu
 - Orang tua
 - Siswa
 - Pengajar
-- Pegawai
+- Pegawai / Admin
 
 
 ### Flowchart
