@@ -7,10 +7,10 @@
 
 
 ### Latar Belakang
-Bimbingan belajar rumah ke rumah adalah layanan pendidikan yang memberikan bantuan belajar secara personal di rumah siswa. Layanan ini telah menjadi pilihan yang sejak lama telah diminati oleh banyak orang tua dan siswa. Dengan berbagai manfaat yang ditawarkan, Bimbingan belajar rumah ke rumah tidak hanya membantu siswa mencapai prestasi akademik dan non akademik yang lebih baik, tetapi juga mendukung pengembangan keterampilan dan karakter yang akan berguna untuk masa depan mereka.
+Bimbingan belajar rumah ke rumah adalah layanan pendidikan yang memberikan bantuan belajar secara personal di rumah siswa. Layanan ini telah menjadi pilihan yang sejak lama telah diminati oleh banyak orang tua dan siswa. Dengan berbagai manfaat yang ditawarkan, Bimbingan belajar rumah ke rumah tidak hanya membantu siswa mencapai prestasi akademik lebih baik, tetapi juga mendukung pengembangan keterampilan dan karakter yang akan berguna untuk masa depan mereka.
 
 
-### Problem
+### Problem atau Masalah 
 1. Ruang dan fasilitas terbatas: Rumah mungkin tidak cukup luas atau memadai untuk bimbingan belajar efektif, dengan meja, kursi, dan peralatan pembelajaran yang terbatas.
 
 2. Gangguan lingkungan: Rumah sering kali penuh dengan gangguan seperti kebisingan dari keluarga atau perangkat elektronik, mengganggu konsentrasi selama sesi pembelajaran.
@@ -24,7 +24,7 @@ Bimbingan belajar rumah ke rumah adalah layanan pendidikan yang memberikan bantu
 6. Pembayaran : Pembayaran yang dilakukan secara tunai rentan terhadap kesalahan.
 
 
-### Solusi
+### Solving atau Solusi 
 1. Penyediaan Fasilitas: Bantu keluarga menata ruang belajar yang kondusif dengan peralatan yang diperlukan.
 
 2. Pengaturan Lingkungan: Bimbing siswa dan keluarga dalam mengurangi gangguan lingkungan selama sesi belajar.
@@ -38,16 +38,7 @@ Bimbingan belajar rumah ke rumah adalah layanan pendidikan yang memberikan bantu
 6. Pembayaran : Memberikan layanan pembayaran secara online, agar lebih mudah dilakukan dimanapun dan kapanpun melalui transfer bank dan sebagainya.
 
 
-### Fitur
-- Register dan Login Akun
-- Profil Siswa dan Orang tua
-- Daftar Paket Pembelajaran
-- Pendaftaran Pembelajaran
-- Pembayaran dan Riwayat Pembayaran
-- Jadwal Pembelajaran
-- Materi pembelajaran dan Pengumpulan Tugas
-- Perpanjangan Paket Pembelajaran
-- Fitur Chat dan Support Online
+## Requirements/Forms yang terlibat :
 
 
 ### Aktor
@@ -55,9 +46,6 @@ Bimbingan belajar rumah ke rumah adalah layanan pendidikan yang memberikan bantu
 - Siswa
 - Pengajar
 - Pegawai / Admin
-
-
-### Flowchart
 
 
 ### Use Case
@@ -72,7 +60,7 @@ Bimbingan belajar rumah ke rumah adalah layanan pendidikan yang memberikan bantu
 ### Sequence Diagram
 
 
-### Activity
+### Activity Diagram
 
 
 ### Wireframe
